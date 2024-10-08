@@ -1,0 +1,17 @@
+Admin will have:
+- Dashboard - 5 pages
+ Card view
+- summary of no.
+- no. of items in cart
+- view all products created on site
+- create product with form (display a form for the admin seperately)
+- view all products on the system (create, edit, delete)
+- View all Existing users (create, edit, delete)
+- Create user (display a form for the admin seperately)
+
+-single product page should work but let other parts be hard coded
+- add to cart functionlity
+
+///////////////////////////////// CORRECTION ////////////////////
+- Calculate total price for a single product
+- 
